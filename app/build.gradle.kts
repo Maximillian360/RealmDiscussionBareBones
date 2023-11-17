@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "ph.edu.auf.realmdiscussionbarebones"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "ph.edu.auf.realmdiscussionbarebones"
